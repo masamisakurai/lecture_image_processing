@@ -55,7 +55,7 @@ imhist(ORG); % 濃度ヒストグラムを生成、表示
 
  結果を図5に示す． 
  
- ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai7-3.jpg)   
+ ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai7-4.jpg)   
  図５  濃度値の最大値最小値を算出後の濃度ヒストグラムを生成、表示
 
  
