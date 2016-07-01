@@ -8,10 +8,10 @@
  imagesc(ORG); colormap(gray); colorbar; % 画像の表示 
  pause; % 一時停止 
  
-結果を図２に示す． 
+結果を図1に示す． 
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai5-1.jpg)   
- 図2 白黒濃淡画像
+ 図1 白黒濃淡画像
  
  
 判別分析法を用いた画像の二値化
@@ -41,7 +41,7 @@ IMG = ORG > max_thres;
 imagesc(IMG); colormap(gray); colorbar; 
 pause;
  
- 結果を図３に示す． 
+ 結果を図2に示す． 
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai5-2.jpg)   
- 図３   判別分析法を用いた二値化画像
+ 図2   判別分析法を用いた二値化画像
