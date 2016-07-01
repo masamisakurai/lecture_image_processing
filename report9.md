@@ -57,7 +57,7 @@ pause;
 
  結果を図5に示す． 
  
- ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai9-3.jpg)   
+ ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai9-4.jpg)   
  図５  メディアンフィルタで雑音除去
  
 フィルタの設計適用
@@ -69,6 +69,6 @@ pause;
 
  結果を図6に示す． 
  
- ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai9-4.jpg)   
+ ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai9-5.jpg)   
  図６  フィルタの設計適用
  
