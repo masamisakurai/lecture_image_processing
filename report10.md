@@ -60,3 +60,8 @@ pause; % 一時停止
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai10-4.jpg)   
  図５  エッジ抽出（キャニー法）
+ 
+ 結果より
+ 
+ プレウィット法とソルベ法が類似した結果となってしまった。
+
