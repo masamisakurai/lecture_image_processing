@@ -8,7 +8,7 @@
 原画像を読み込み，表示した結果を図１に示す． 
  
  
- ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/sekaowa.jpg)
+ ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/sekaowa1.jpg)
  図1 原画像 
  
  原画像を白黒濃淡画像にする。
