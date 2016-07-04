@@ -58,3 +58,9 @@
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai1-6.jpg)   
  図6 1/32サンプリング 
+
+
+結果より
+図から標本化間隔が粗くなるにつれて画像のきめも粗くなることがわかった。
+
+
