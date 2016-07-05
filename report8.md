@@ -47,5 +47,10 @@ pause;
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai8-3.jpg)   
  図４  ラベリング画像
  
+結果より
+
+128で二値化した後のラベリング画像であるため、隣接画素が同色の画素だけでなく近似色の画素にも同じラベルを明解に
+設定し諧調を制限してることがわかる。
+ 
 
  
