@@ -46,4 +46,9 @@ pause;
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai6-3.jpg)   
  図４  ディザ法による二値化
 
+ 結果より
  
+ 通常の二値化と違い、ディザ法による二値化時に人間の目に錯覚効果を及ぼすような閾値で行っており
+ ドットで白黒の濃淡があるように見える。
+ 128による二値化より写真認識には細部特徴がつかめる変化となっていることがわかる。
+
