@@ -45,3 +45,7 @@ pause;
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai5-2.jpg)   
  図2   判別分析法を用いた二値化画像
+
+結果より
+
+判別分析法での二値化は
