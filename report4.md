@@ -1,4 +1,4 @@
-# 課題4レポート
+# 課題4レポート　　画像のヒストグラム
 画素の濃度ヒストグラムを生成する
 
  ORG=imread('matumoto.jpg'); % 原画像の入力   
@@ -32,3 +32,5 @@
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai4-2.jpg)   
  図３   ヒストグラムの表示
+
+結果より
