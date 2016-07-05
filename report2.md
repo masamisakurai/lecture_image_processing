@@ -67,3 +67,10 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai2-4.jpg)   
  図５ ８階調 
+
+結果より
+
+階調レベルの違いによる画像把握のしやすさにこれだけの変化がでることは
+明快に理解ができた。
+画像用途別で認識と情報の量をサイズにとともに意識しながら
+プログラムしていく必要にも注目した。
