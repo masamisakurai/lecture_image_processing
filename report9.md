@@ -1,4 +1,4 @@
-# 課題9レポート
+# 課題9レポート　　メディアンフィルタと先鋭化
 メディアンフィルターを適用し，ノイズ除去を体験する
 
  ORG=imread('sekaowa.jpg'); % 原画像の入力   
@@ -72,3 +72,7 @@ pause;
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai9-5.jpg)   
  図６  フィルタの設計適用
  
+結果より
+
+ノイズが除去されると同時に平滑化によりエッジがボケしまった。
+メディアンフィルタの場合はエッジが残ることがわかった。
