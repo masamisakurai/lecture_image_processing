@@ -1,4 +1,4 @@
-# 課題3レポート
+# 課題3レポート　閾値処理
 閾値を4パターン設定し,閾値処理た画像を示す
 
  ORG=imread('matumoto.jpg'); % 原画像の入力   
@@ -71,3 +71,8 @@
  
  ![原画像](https://github.com/masamisakurai/lecture_image_processing/blob/master/kadai3-5.jpg)   
  図５ 輝度値が192以上画素1，その他0に変換 
+ 
+ 
+ 結果より
+ 
+ 輝度値が96以上の画素を1，その他を0に変換にする 
